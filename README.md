@@ -1,4 +1,4 @@
-# preditors-and-doodlebugs
+# ants-and-doodlebugs
 
 
 This is a simple 2-dimensional predator-prey simulation.
